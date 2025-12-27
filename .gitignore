@@ -57,3 +57,5 @@ build/
 
 # Protobuf generated files (if not committed)
 # proto/*.pb.go
+
+config.yaml
